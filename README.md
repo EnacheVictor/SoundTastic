@@ -5,16 +5,9 @@ Built with Python + `tkinter` + `pygame`. No install or Python needed – just p
 
 ---
 
-## 📸 Screenshots
-
-### 🎮 Start Screen
-![Start](start.png)
-
 ### 🔊 Gameplay
 ![Gameplay](game.png)
 
-### 🏁 Score Screen
-![Result](result.png)
 
 ---
 
