@@ -13,7 +13,7 @@ Built with Python + `tkinter` + `pygame`. No install or Python needed – just p
 
 ## 🚀 How to Play
 
-1. Download the latest `.zip` from [Releases](https://github.com/EnacheVictor/SoundTastic/releases)
+1. Download the latest version from [Releases](https://github.com/EnacheVictor/SoundTastic/releases)
 2. Unzip the folder
 3. Double-click `SoundTastic.exe`
 4. Listen and guess the animal sound
